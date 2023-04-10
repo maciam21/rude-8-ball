@@ -1,7 +1,7 @@
 $(document).ready(function(){
   
     var magic8Ball = {};
-    magic8Ball.listofanswers = ["Yes, 👴🏻 My Guy", "💅🏼Si Ms. Girl! 💁🏽‍♀️","Hell No Fresno 🚫","🤬Phuuck No 🖕🏼", "Tu que crees 🤨", "Waki 🤢","Chinga Tu Madre ","Heck yes, Tech Yes!", "Good Answer Steve!", "Bruhh..🙄" ,"Bye, Felicia! ✌🏼", "Ms. Girl..💅🏼 Please","Duh Felipe!🤦🏻‍♀️", "Te apesta a culo 🍑","Hasta La Vista Baby", "You're not the father 👨", "No for I have Spoken", "Si Perro 🐶", "Ask my boii Dennis", "Ms. Girl 💅🏼", "👸🏻Material Girl 💅🏼","No Mames Wey 🍆","La Traes Verde 💩","🥋Catch these hands 🥊","Yo moms a hoe 💁🏽‍♀️", "Yaaass 👸🏻 Queen ","No Pues Wow 😒","Ask Future", "Tus Nalgas 🍑 dipped in Vinagre", "Really hoe? 😒","Tu mama wey 🤰🏻","🤬 Chinga 20 🖕🏼"];
+    magic8Ball.listofanswers = ["Yes, 👴🏻 My Guy", "💅🏼Si Ms. Girl! 💁🏽‍♀️","Hell No Fresno 🚫","🤬Phuuck No 🖕🏼", "Tu que crees 🤨", "Waki 🤢","Chinga Tu Madre ","Heck yes, Tech Yes!", "Good Answer Steve!", "Bruhh..🙄" ,"Bye, Felicia! ✌🏼", "Ms. Girl..💅🏼 Please","Duh Felipe!🤦🏻‍♀️", "Te apesta a culo 🍑","Hasta La Vista Baby", "You're not the father 👨", "No for I have Spoken 🚫", "Si Perro 🐶", "Ask my boii Dennis", "Ms. Girl 💅🏼", "👸🏻Material Girl 💅🏼","No Mames Wey 🍆","La Traes Verde 💩","🥋Catch these hands 🥊","Yo moms a hoe 💁🏽‍♀️", "Yaaass 👸🏻 Queen ","No Pues Wow 😒","Ask Future", "Tus Nalgas 🍑 dipped in Vinagre", "Really hoe? 😒","Tu mama wey 🤰🏻","🤬 Chinga 20 🖕🏼"];
    
     magic8Ball.getAnswer = function(question)
     {
